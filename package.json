@@ -16,5 +16,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/normes-ouvertes-donnees-sante.git"
-  }
+  },
+  "author": "Votre Nom"
 }
