@@ -1,0 +1,15 @@
+{
+  "name": "normes-ouvertes-donnees-sante",
+  "version": "1.0.0",
+  "description": "Un outil de visualisation des données de santé basé sur des normes ouvertes pour une meilleure interopérabilité.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "chart.js": "^3.7.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
