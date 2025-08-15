@@ -4,13 +4,16 @@
   "description": "Un outil de visualisation des données de santé basé sur des normes ouvertes pour une meilleure interopérabilité.",
   "main": "src/app.js",
   "scripts": {
-    "start": "lite-server" // Commande pour démarrer le serveur léger
+    "start": "lite-server",
+    "script_description": "Commande pour démarrer le serveur léger"
   },
   "dependencies": {
-    "chart.js": "^3.7.0" // Bibliothèque pour la visualisation de données
+    "chart.js": "^3.7.0",
+    "dependency_description": "Bibliothèque pour la visualisation de données"
   },
   "devDependencies": {
-    "lite-server": "^2.6.1" // Serveur léger pour le développement
+    "lite-server": "^2.6.1",
+    "dev_dependency_description": "Serveur léger pour le développement"
   },
   "license": "MIT"
 }
