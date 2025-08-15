@@ -1,7 +1,7 @@
 {
-  "name": "normes-ouvertes-donnees-sante",
+  "name": "open-standards-health-data",
   "version": "1.0.0",
-  "description": "Un outil de visualisation des données de santé basé sur des normes ouvertes pour une meilleure interopérabilité.",
+  "description": "A data visualization tool for health data based on open standards for better interoperability.",
   "main": "src/app.js",
   "scripts": {
     "start": "lite-server"
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/normes-ouvertes-donnees-sante.git"
+    "url": "https://github.com/yourusername/open-standards-health-data.git"
   },
-  "author": "Votre Nom"
+  "author": "Your Name"
 }
